@@ -2,7 +2,8 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 // import App from './App';
- import Calculator from './Add';
+//  import Calculator from './Add';
+ import Login from './Log';
 
 // import Addcomponent from './Calculator';
 import reportWebVitals from './reportWebVitals';
@@ -11,7 +12,8 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     {/* <App /> */}
-   <Calculator/>
+   {/* <Calculator/> */}
+   <Login/>
   </React.StrictMode>
 );
 

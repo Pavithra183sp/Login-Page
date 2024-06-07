@@ -1,0 +1,23 @@
+body{
+    padding-top: 50px;
+    background-color: skyblue;
+     text-align: center; 
+}
+input[type=text]{
+    margin-bottom: 20px;
+    border: solid black 1px;
+    width:50%;
+    border: solid black 1.5px;        
+}
+.Login{
+   /* text-align: center; */
+   padding-top: 100px;
+    display: inline-flex;     
+    justify-content: space-between;     
+     width: 300px;  
+     height: 300px;
+   border-style: double;
+   padding-left: 40px;
+   padding-right: 40px;
+   
+}
